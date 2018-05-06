@@ -1,0 +1,272 @@
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\ApplicationInsights.config
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\csc.exe
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\System.Collections.Immutable.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\vbc.exe
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\VBCSCompiler.exe
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\roslyn\VBCSCompiler.exe.config
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\aula02Marth.dll.config
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\aula02Marth.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\aula02Marth.pdb
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Antlr3.Runtime.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.Web.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.WindowsServer.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.ApplicationInsights.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.Web.Infrastructure.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Newtonsoft.Json.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Net.Http.Formatting.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Helpers.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Http.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Http.WebHost.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Mvc.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Optimization.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Razor.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.WebPages.Deployment.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.WebPages.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.WebPages.Razor.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\WebGrease.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.Web.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.AI.WindowsServer.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.ApplicationInsights.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Newtonsoft.Json.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Net.Http.Formatting.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Helpers.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Http.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Http.WebHost.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Mvc.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Optimization.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Razor.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.WebPages.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.WebPages.Deployment.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.WebPages.Razor.xml
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\Antlr3.Runtime.pdb
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\obj\Debug\aula02Marth.csprojResolveAssemblyReference.cache
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\obj\Debug\aula02Marth.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\obj\Debug\aula02Marth.pdb
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Cors.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Http.Cors.dll
+c:\users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\System.Web.Http.Cors.xml
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\apiCrud.bo.dll
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\EntityFramework.dll
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\EntityFramework.SqlServer.dll
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\apiCrud.bo.pdb
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\EntityFramework.xml
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\aula02Marth\bin\EntityFramework.SqlServer.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\ApplicationInsights.config
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\csc.exe
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\vbc.exe
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\VBCSCompiler.exe
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\aula02Marth.dll.config
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\aula02Marth.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\aula02Marth.pdb
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Antlr3.Runtime.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\apiCrud.bo.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.SqlServer.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.Web.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.ApplicationInsights.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Newtonsoft.Json.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Net.Http.Formatting.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Cors.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Helpers.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.Cors.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.WebHost.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Mvc.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Optimization.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Razor.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Razor.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\WebGrease.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\apiCrud.bo.pdb
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.SqlServer.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.Web.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.ApplicationInsights.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.Cors.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Newtonsoft.Json.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Net.Http.Formatting.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Helpers.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.WebHost.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Mvc.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Optimization.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.Razor.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Razor.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\bin\Antlr3.Runtime.pdb
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\obj\Debug\aula02Marth.csprojResolveAssemblyReference.cache
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\obj\Debug\aula02Marth.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\aula02Marth\obj\Debug\aula02Marth.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\ApplicationInsights.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\csc.exe
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\vbc.exe
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\VBCSCompiler.exe
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\aula02Marth.dll.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\aula02Marth.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\aula02Marth.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Antlr3.Runtime.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\apiCrud.bo.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.SqlServer.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.Web.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.ApplicationInsights.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Newtonsoft.Json.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Net.Http.Formatting.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Cors.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Helpers.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.Cors.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.WebHost.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Mvc.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Optimization.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Razor.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Razor.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\WebGrease.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\apiCrud.bo.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\EntityFramework.SqlServer.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.Web.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.ApplicationInsights.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.Cors.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Newtonsoft.Json.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Net.Http.Formatting.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Helpers.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Http.WebHost.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Mvc.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Optimization.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.Razor.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\System.Web.WebPages.Razor.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\bin\Antlr3.Runtime.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\obj\Debug\aula02Marth.csprojResolveAssemblyReference.cache
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\obj\Debug\aula02Marth.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\aula02Marth\obj\Debug\aula02Marth.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\ApplicationInsights.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\csc.exe
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\vbc.exe
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\VBCSCompiler.exe
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\aula02Marth.dll.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\aula02Marth.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\aula02Marth.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Antlr3.Runtime.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\apiCrud.bo.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\EntityFramework.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\EntityFramework.SqlServer.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.Web.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.ApplicationInsights.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Newtonsoft.Json.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Net.Http.Formatting.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Cors.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Helpers.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Http.Cors.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Http.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Http.WebHost.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Mvc.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Optimization.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Razor.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.WebPages.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.WebPages.Razor.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\WebGrease.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\apiCrud.bo.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\EntityFramework.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\EntityFramework.SqlServer.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.Web.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.ApplicationInsights.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Http.Cors.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Newtonsoft.Json.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Net.Http.Formatting.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Helpers.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Http.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Http.WebHost.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Mvc.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Optimization.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.Razor.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.WebPages.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\System.Web.WebPages.Razor.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\bin\Antlr3.Runtime.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\obj\Debug\aula02Marth.csprojResolveAssemblyReference.cache
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\obj\Debug\aula02Marth.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\aula02Marth\obj\Debug\aula02Marth.pdb

@@ -1,0 +1,52 @@
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\bin\Debug\apiCrud.bo.dll.config
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\bin\Debug\apiCrud.bo.dll
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\bin\Debug\apiCrud.bo.pdb
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\bin\Debug\EntityFramework.dll
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\bin\Debug\EntityFramework.xml
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\obj\Debug\ApiCrud.BO.csprojResolveAssemblyReference.cache
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\obj\Debug\apiCrud.bo.dll
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\obj\Debug\apiCrud.bo.pdb
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.Inicial.resources
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\obj\Debug\ApiCrud.BO.csproj.GenerateResource.Cache
+C:\Users\misaelzeferino\documents\visual studio 2015\Projects\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.AddCampoEndereco.resources
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\ApiCrud.BO.csprojResolveAssemblyReference.cache
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.Inicial.resources
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.AddCampoEndereco.resources
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\ApiCrud.BO.csproj.GenerateResource.Cache
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.pdb
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\bin\Debug\apiCrud.bo.dll.config
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\bin\Debug\apiCrud.bo.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\bin\Debug\apiCrud.bo.pdb
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.exclusaoCampoEndereco.resources
+C:\Users\misaelzeferino\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.exclusaoCampoEscolaridadeSexo.resources
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\bin\Debug\apiCrud.bo.dll.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\bin\Debug\apiCrud.bo.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\bin\Debug\apiCrud.bo.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\obj\Debug\ApiCrud.BO.csprojResolveAssemblyReference.cache
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.Inicial.resources
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebApi\apiCrud.bo\obj\Debug\ApiCrud.BO.csproj.GenerateResource.Cache
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\bin\Debug\apiCrud.bo.dll.config
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\bin\Debug\apiCrud.bo.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\bin\Debug\apiCrud.bo.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\bin\Debug\EntityFramework.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\bin\Debug\EntityFramework.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\obj\Debug\ApiCrud.BO.csprojResolveAssemblyReference.cache
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\obj\Debug\apiCrud.bo.dll
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\obj\Debug\apiCrud.bo.pdb
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\obj\Debug\apiCrud.bo.Migrations.Inicial.resources
+C:\Users\misael.DESKTOP-9T0PIVR\Source\Repos\WebAPiDoSegundoCurso\apiCrud.bo\obj\Debug\ApiCrud.BO.csproj.GenerateResource.Cache

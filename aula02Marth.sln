@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula02Marth", "aula02Marth\aula02Marth.csproj", "{AE6DB8DB-C33B-44AF-B69D-B7BA68EDC4D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCrud.BO", "apiCrud.bo\ApiCrud.BO.csproj", "{B5229CCE-2EC4-4140-A1A9-F0D172409D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE6DB8DB-C33B-44AF-B69D-B7BA68EDC4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6DB8DB-C33B-44AF-B69D-B7BA68EDC4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6DB8DB-C33B-44AF-B69D-B7BA68EDC4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6DB8DB-C33B-44AF-B69D-B7BA68EDC4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5229CCE-2EC4-4140-A1A9-F0D172409D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5229CCE-2EC4-4140-A1A9-F0D172409D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5229CCE-2EC4-4140-A1A9-F0D172409D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5229CCE-2EC4-4140-A1A9-F0D172409D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
